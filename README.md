@@ -1,5 +1,5 @@
 <h1 align="center">Magomed Zaurbekov ⌨️</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">a front-end enthusiast developer</h3>
 <br>
 
 <p align="left">
